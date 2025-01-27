@@ -29,7 +29,7 @@ function climbingSteps(n) {
 }
 
 function main() {
-    const n = 3
+    const n = 44
 
     return climbingSteps(n)
 }
